@@ -2,6 +2,6 @@
   "latest": "1.0.0",
   "required": true,
   "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.0/GTAModSuite_1.0.0.zip.zip",
-  "sha256": "sha256:1697994bc7b7f8058fc073c0ed3e4a8dc9e58e94391be2c972f6cf180af74eac",
+  "sha256": "1697994bc7b7f8058fc073c0ed3e4a8dc9e58e94391be2c972f6cf180af74eac",
   "notes": "Primera version estable"
 }
