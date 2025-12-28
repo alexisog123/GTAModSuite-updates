@@ -28,6 +28,13 @@
   "Sonidos": [],
   "Cielos": [],
   "Reshade": [],
-  "Citizens": [],
+  "Citizens": [
+    {
+      "name": "Shivass PVP",
+      "description": "Optimización para PVP, cielos limpios y mejor visibilidad.",
+      "image": "https://cdn.discordapp.com/attachments/1316190017210683392/1449020708641443852/image.png?ex=69527932&is=695127b2&hm=a2a47a7e53756f982d79571122713be8abb745974c3f38cb3d2c573f32dbc16e&",
+      "url": "https://drive.google.com/file/d/16p1rKx51GqFRcX6KbAv4hl0K5_Mfe2h1/view?usp=sharing"
+    }
+  ],
   "Graficos": []
 }
