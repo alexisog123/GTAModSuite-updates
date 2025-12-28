@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.3",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.0/GTAModSuite_1.0.0.zip",
-  "sha256": "c65feefba1928b6a6c2c802b3a69cff836cc9e91e3939ce75f6369cb33f130",
-  "notes": "Actualización de prueba"
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.3/GTAModSuite_1.0.3.zip",
+  "sha256": "95d851076e6db7fb4ba1036f722e07dd9114ab4a7ce06373917bf7c752a8918f",
+  "notes": "Actualización de prueba 1.0.3"
 }
