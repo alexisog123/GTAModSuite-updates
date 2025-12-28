@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "packs": [
+    {
+      "name": "Pack Gráfico Ultra",
+      "description": "Mejora las texturas y la iluminación de todo el juego. Recomendado para PCs gama media/alta.",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/pack_ultra.jpg",
+      "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1/pack_ultra.zip",
+      "section": "Graficos"
+    }
+  ],
+  "Skins": [
+    {
+      "name": "SMG Táctica",
+      "description": "Skin detallada para la SMG estándar con acabados metálicos y mejor agarre visual.",
+      "image": "https://cdn.discordapp.com/attachments/1316199202732113951/1316535452148437083/unknown_4.png?ex=69525aef&is=6951096f&hm=5dc513040b8f33ca5efb21fc7fbd7e6b65a178b8cbe9d64855a6c6c833e29a02&",
+      "url": "https://dl.perfprod.com/weapons/smg11.zip"
+    }
+  ],
+  "Miras": [
+    {
+      "name": "Punto Rojo Simple",
+      "description": "Mira minimalista para PVP.",
+      "image": "",
+      "url": "https://ejemplo.com/mira.zip"
+    }
+  ],
+  "Sonidos": [],
+  "Cielos": [],
+  "Reshade": [],
+  "Citizens": [],
+  "Graficos": []
+}
