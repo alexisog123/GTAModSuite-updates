@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.9",
+  "latest": "1.0.10",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.9/AlexisOG_Update_Package.zip",
-  "sha256": "6067fc4c391c050e45340504620516ec590e1b3c9639db2b56731e78426e0bea",
-  "notes": "Actualización de prueba 1.0.9"
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.10/AlexisOG_Update_Package.zip",
+  "sha256": "dd1885c16aaa5bc890d05df3e544088279a0461a4582cedf30c7bf7877cea8e0",
+  "notes": "Actualización de prueba 1.0.10"
 }
