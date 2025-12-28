@@ -1,7 +1,5 @@
 {
-  "latest": "1.0.11",
+  "latest": "1.0.1",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v.1.0.11/AlexisOG_Update_Package.zip",
-  "sha256": "929b5955cf11ff2570208fe19b67fb880ea7f9046fb9b7635ca35b9182891d1c",
-  "notes": "Actualización de prueba 1.0.11"
+  "zip_url": "URL_DIRECTA_AL_ZIP_QUE_SUBIRAS_AHORA"
 }
