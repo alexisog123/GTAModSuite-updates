@@ -37,13 +37,5 @@
             "section": "Skins"
         }
     ],
-    "Miras": [
-        {
-            "name": "pistolmk2",
-            "description": "skin",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/Pistolmk2.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/image.png",
-            "section": "Miras"
-        }
-    ]
+    "Miras": []
 }
