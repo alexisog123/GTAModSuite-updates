@@ -159,15 +159,6 @@
             "weapon_model": "SMG"
         },
         {
-            "name": "Tec-9 Ternosolado",
-            "description": "Mod Tec-9 Ternosolado para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/tec9.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/image.png",
-            "section": "Skins",
-            "weapon_type": "Subfusiles",
-            "weapon_model": "Tec-9"
-        },
-        {
             "name": "Dragon Thompson",
             "description": "Mod Dragon Thompson para Skins",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/thompson.rpf",
@@ -175,6 +166,15 @@
             "section": "Skins",
             "weapon_type": "Subfusiles",
             "weapon_model": "Otros SMG"
+        },
+        {
+            "name": "Tec-9 Ternosolado",
+            "description": "Mod Tec-9 Ternosolado para Skins",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/dragonthompson.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/dragonthompson.png",
+            "section": "Skins",
+            "weapon_type": "Subfusiles",
+            "weapon_model": "Tec-9"
         }
     ],
     "Tienda OG": []
