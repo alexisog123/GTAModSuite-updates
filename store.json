@@ -15,13 +15,5 @@
         }
     ],
     "Skins": [],
-    "Miras": [
-        {
-            "name": "dgs355",
-            "description": "2345235",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/combatpistol18.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/combatpistol.png",
-            "section": "Miras"
-        }
-    ]
+    "Miras": []
 }
