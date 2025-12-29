@@ -18,13 +18,6 @@
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/ULTIMATE_FPS.zip",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/ultimatefps.png",
             "section": "Citizens"
-        },
-        {
-            "name": "Citizens Colorido",
-            "description": "Mod Citizens Colorido para Citizens",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/Citizens_Colorido.zip",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/citizenscolorido.png",
-            "section": "Citizens"
         }
     ],
     "Sonidos": [],
