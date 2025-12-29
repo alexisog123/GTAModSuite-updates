@@ -1,5 +1,6 @@
 {
     "packs": [],
+    "Miras": [],
     "Cielos": [
         {
             "name": "Cielo Carti",
@@ -9,6 +10,10 @@
             "section": "Cielos"
         }
     ],
+    "Reshade": [],
+    "Citizens": [],
+    "Sonidos": [],
+    "Graficos": [],
     "Skins": [
         {
             "name": "Combat Pistol 18",
@@ -16,6 +21,14 @@
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/combatpistol18.rpf",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/combatpistol.png",
             "section": "Skins"
+        },
+        {
+            "name": "Ak 47 Violeta Electrica",
+            "description": "AK 47 Violeta electrica con mira",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/akvioleta.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/image.png",
+            "section": "Skins"
         }
-    ]
+    ],
+    "Tienda OG": []
 }
