@@ -1,10 +1,6 @@
 {
-    "name": "Flecha Verde",
-    "description": "xd",
-    "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/flecha.png",
-    "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/flecha.png",
-    "section": "Miras",
-    "Citizens": [],
+    "packs": [],
+    "Miras": [],
     "Cielos": [
         {
             "name": "Cielo Carti",
@@ -14,6 +10,18 @@
             "section": "Cielos"
         }
     ],
-    "Skins": [],
-    "Miras": []
+    "Reshade": [],
+    "Citizens": [],
+    "Sonidos": [],
+    "Graficos": [],
+    "Skins": [
+        {
+            "name": "Combat Pistol 18",
+            "description": "Combat pistol azul con fajos de dolares",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/combatpistol18.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/combatpistol.png",
+            "section": "Skins"
+        }
+    ],
+    "Tienda OG": []
 }
