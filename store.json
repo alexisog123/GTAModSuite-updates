@@ -23,13 +23,6 @@
             "section": "Skins"
         },
         {
-            "name": "appistol",
-            "description": "test",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/blacklightappistol.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/image.png",
-            "section": "Skins"
-        },
-        {
             "name": "combatpistol",
             "description": "Skin",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/Skin.rpf",
