@@ -30,17 +30,18 @@
             "section": "Skins"
         },
         {
-            "name": "Heavy Pistol Nike",
-            "description": "Heavy Pistol Nike De color verde",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/heavypistolnike.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/heavypistolnike.png",
-            "section": "Skins"
-        },
-        {
             "name": "Combat Pistol 18",
             "description": "Combat pistol azul con fajos de dolares",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/combatpistol18.rpf",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/combatpistol.png",
+            "section": "Skins",
+            "weapon_type": "Pistolas"
+        },
+        {
+            "name": "Heavy Pistol Nike",
+            "description": "Heavy Pistol Nike De color verde",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/heavypistolnike.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/heavypistolnike.png",
             "section": "Skins",
             "weapon_type": "Pistolas"
         }
