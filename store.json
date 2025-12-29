@@ -1,6 +1,5 @@
 {
     "packs": [],
-    "Miras": [],
     "Cielos": [
         {
             "name": "Cielo Carti",
@@ -10,10 +9,6 @@
             "section": "Cielos"
         }
     ],
-    "Reshade": [],
-    "Citizens": [],
-    "Sonidos": [],
-    "Graficos": [],
     "Skins": [
         {
             "name": "Combat Pistol 18",
@@ -22,6 +17,5 @@
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/combatpistol.png",
             "section": "Skins"
         }
-    ],
-    "Tienda OG": []
+    ]
 }
