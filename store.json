@@ -77,15 +77,6 @@
             "section": "Skins",
             "weapon_type": "Pistolas",
             "weapon_model": "Pistola MK2"
-        },
-        {
-            "name": "MK2 Alas",
-            "description": "MK2 Con alas",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistolmk2diablo.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/mk2alas4334.png",
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Pistola MK2"
         }
     ],
     "Tienda OG": []
