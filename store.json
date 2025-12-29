@@ -35,6 +35,13 @@
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/GlockNike.rpf",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/glocknike.png",
             "section": "Skins"
+        },
+        {
+            "name": "Heavy Pistol Nike",
+            "description": "Heavy Pistol Nike De color verde",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/heavypistolnike.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/heavypistolnike.png",
+            "section": "Skins"
         }
     ],
     "Tienda OG": []
