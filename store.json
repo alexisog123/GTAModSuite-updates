@@ -94,6 +94,15 @@
             "section": "Skins",
             "weapon_type": "Pistolas",
             "weapon_model": "Pistola MK2"
+        },
+        {
+            "name": "AP Demon",
+            "description": "Ap pistol demon",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/appistoldemon.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/appistoldemon.png",
+            "section": "Skins",
+            "weapon_type": "Pistolas",
+            "weapon_model": "Pistola AP"
         }
     ],
     "Tienda OG": []
