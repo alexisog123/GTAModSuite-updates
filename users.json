@@ -46,5 +46,15 @@
         "status": "active",
         "tag": "Nuevo Usuario",
         "expires_at": "Permanent"
+    },
+    "213250964047769": {
+        "username": "facud",
+        "pc_name": "DESKTOP-4GU2VUH",
+        "added_at": "2025-12-29 22:33:53",
+        "last_login": "2025-12-29 22:33:53",
+        "version": "1.0.27",
+        "status": "inactive",
+        "tag": "Nuevo Usuario",
+        "expires_at": "Permanent"
     }
 }
