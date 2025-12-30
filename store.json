@@ -70,15 +70,6 @@
             "weapon_model": "Assault Rifle"
         },
         {
-            "name": "Pistol Skull White",
-            "description": "MK2 Blanca calavera",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistola.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/skullasd.png",
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Pistola MK2"
-        },
-        {
             "name": "MK2 Angelical",
             "description": "MK2 CON ALAS",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistolmk2diablo.rpf",
@@ -260,6 +251,20 @@
             "section": "Skins",
             "weapon_type": "Rifles",
             "weapon_model": "Carbine Rifle"
+        },
+        {
+            "name": "Pistol Skull White",
+            "description": "MK2 Blanca calavera",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistola.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/d13.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/d13.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114367_0_ads12.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114369_1_asdd123.png"
+            ],
+            "section": "Skins",
+            "weapon_type": "Pistolas",
+            "weapon_model": "Pistola MK2"
         }
     ]
 }
