@@ -214,8 +214,12 @@
             "name": "Heavy Pistol Nike",
             "description": "Heavy Pistol Nike De color verde",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/heavypistolnike.rpf",
-            "image": "",
-            "images": [],
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767082253_0_Heavypistolnike1.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767082253_0_Heavypistolnike1.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767082254_1_heavypistolnike2.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767082256_2_heavypistolnike3.png"
+            ],
             "section": "Skins",
             "weapon_type": "Pistolas",
             "weapon_model": "Heavy Pistol"
