@@ -61,15 +61,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "Ak 47 Violeta Electricaa",
-            "description": "AK 47 Violeta electrica con mira",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/akvioleta.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/akvioleta.png",
-            "section": "Skins",
-            "weapon_type": "Rifles",
-            "weapon_model": "Assault Rifle"
-        },
-        {
             "name": "MK2 Angelical",
             "description": "MK2 CON ALAS",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistolmk2diablo.rpf",
@@ -270,6 +261,20 @@
             "section": "Skins",
             "weapon_type": "Pistolas",
             "weapon_model": "Pistola AP"
+        },
+        {
+            "name": "Ak 47 Violeta Electricaa",
+            "description": "AK 47 Violeta electrica con mira",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/akvioleta.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asfasfas.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asfasfas.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114682_0_ad2.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114683_1_asdaw2.png"
+            ],
+            "section": "Skins",
+            "weapon_type": "Rifles",
+            "weapon_model": "Assault Rifle"
         }
     ]
 }
