@@ -56,5 +56,15 @@
         "status": "active",
         "tag": "Nuevo Usuario",
         "expires_at": "Permanent"
+    },
+    "206863104714816": {
+        "username": "John",
+        "pc_name": "JOHN-PC",
+        "added_at": "2025-12-30 04:27:35",
+        "last_login": "2025-12-30 04:27:35",
+        "version": "1.0.27",
+        "status": "inactive",
+        "tag": "Nuevo Usuario",
+        "expires_at": "Permanent"
     }
 }
