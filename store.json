@@ -38,6 +38,13 @@
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/Citizen_V3.zip",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/citizen_opti_3.png",
             "section": "Citizens"
+        },
+        {
+            "name": "Citizen V4",
+            "description": "Mod Citizen V4 para Citizens",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/Citizen_V4.zip",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/citizen_opti_4.png",
+            "section": "Citizens"
         }
     ],
     "Sonidos": [],
