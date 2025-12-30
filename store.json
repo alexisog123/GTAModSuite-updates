@@ -183,20 +183,6 @@
             "weapon_model": "Pistola MK2"
         },
         {
-            "name": "MK2 Silent",
-            "description": "Mod MK2 Silent para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/MK2silent.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/tasfdas.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/tasfdas.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113072_0_asfasf.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113120_0_asfkasd.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Pistola MK2"
-        },
-        {
             "name": "Combat Pistol 18",
             "description": "Combat pistol azul con fajos de dolares",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/combatpistol18.rpf",
@@ -251,6 +237,20 @@
             "section": "Skins",
             "weapon_type": "Subfusiles",
             "weapon_model": "Combat PDW"
+        },
+        {
+            "name": "MK2 Silent",
+            "description": "Mod MK2 Silent para Skins",
+            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/MK2silent.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asfkasd.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asfkasd.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113072_0_asfasf.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113120_0_asfkasd.png"
+            ],
+            "section": "Skins",
+            "weapon_type": "Pistolas",
+            "weapon_model": "Pistola MK2"
         }
     ]
 }
