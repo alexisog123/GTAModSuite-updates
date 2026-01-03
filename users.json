@@ -2,8 +2,8 @@
     {
         "hwid": "DESKTOP-K9CSH2N-ALEXIS",
         "name": "YO",
-        "active": false,
-        "expiration": null,
+        "active": true,
+        "expiration": "2026-01-10",
         "role": "user",
         "created_at": "2026-01-03"
     }
