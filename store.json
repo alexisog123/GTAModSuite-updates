@@ -283,16 +283,5 @@
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/cartiii.png"
         }
     ],
-    "citizens": [
-        {
-            "id": 1767488748,
-            "name": "tesdfv3",
-            "description": "aefea",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/citizens/tesdfv3.zip",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767488746_cover_hgffgh.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767488746_cover_hgffgh.png"
-            ]
-        }
-    ]
+    "citizens": []
 }
