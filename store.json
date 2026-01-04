@@ -291,16 +291,6 @@
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/ULTIMATE_FPS.zip",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/ultimatefps.png",
             "images": []
-        },
-        {
-            "id": 1767495316,
-            "name": "fppsssfmjka",
-            "description": "asdfas",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/citizens/fppsssfmjka.zip",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767495313_cover_3.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767495313_cover_3.png"
-            ]
         }
     ]
 }
