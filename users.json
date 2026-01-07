@@ -14,5 +14,13 @@
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-03"
+    },
+    {
+        "hwid": "DESKTOP-PAL6LV9-LAUTY",
+        "name": "User-DESKTO",
+        "active": false,
+        "expiration": null,
+        "role": "user",
+        "created_at": "2026-01-06"
     }
 ]
