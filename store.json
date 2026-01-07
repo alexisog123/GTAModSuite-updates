@@ -7,20 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "M4A1 Evolutiva",
-            "description": "Mod M4A1 Evolutiva para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/m4evol.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/adsasdas.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/adsasdas.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114249_0_assafas.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767114251_1_asf32q.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Rifles",
-            "weapon_model": "Carbine Rifle"
-        },
-        {
             "name": "Pistol Skull White",
             "description": "MK2 Blanca calavera",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pistola.rpf",
