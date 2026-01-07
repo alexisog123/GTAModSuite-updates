@@ -10,7 +10,7 @@
     {
         "hwid": "DESKTOP-7P49B7E-KEVIN ROJAS",
         "name": "User-DESKTO",
-        "active": false,
+        "active": true,
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-03"
