@@ -38,5 +38,13 @@
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-07"
+    },
+    {
+        "hwid": "DESKTOP-93R3E84-NACHO",
+        "name": "User-DESKTO",
+        "active": false,
+        "expiration": null,
+        "role": "user",
+        "created_at": "2026-01-07"
     }
 ]
