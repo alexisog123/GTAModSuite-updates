@@ -4,13 +4,6 @@
     "Reshade": [],
     "Citizens": [
         {
-            "name": "ULTIMATE FPS",
-            "description": "FPS BOOST",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/ULTIMATE_FPS.zip",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/ultimatefps.png",
-            "section": "Citizens"
-        },
-        {
             "name": "Citizens V1",
             "description": "Mod Citizens V1 para Citizens",
             "url": "https://www.mediafire.com/file/034qh8as41nrsgh/citizenpvp1.zip/file",
