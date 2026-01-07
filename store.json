@@ -7,20 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "Fantasy",
-            "description": "Mod Fantasy para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/smgrosaf.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/adfsdfsdgs.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/adfsdfsdgs.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113700_0_fsadafds.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113701_1_saasx.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Subfusiles",
-            "weapon_model": "SMG"
-        },
-        {
             "name": "PDW Fantasy",
             "description": "Mod PDW Fantasy para Skins",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pdwviol.rpf",
