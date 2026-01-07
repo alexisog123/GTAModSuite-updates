@@ -7,15 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "Revolver Blue Electric",
-            "description": "Mod Revolver Blue Electric para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/revolverblu.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/revolverblu.png",
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Revolver"
-        },
-        {
             "name": "Tec-9 Ternosolado",
             "description": "Mod Tec-9 Ternosolado",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/tec9.rpf",
