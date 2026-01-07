@@ -7,20 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "PDW Fantasy",
-            "description": "Mod PDW Fantasy para Skins",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/pdwviol.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asd2r.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/asd2r.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113843_0_asf2.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113845_1_dsafasdf.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Subfusiles",
-            "weapon_model": "Combat PDW"
-        },
-        {
             "name": "MK2 Silent",
             "description": "Mod MK2 Silent para Skins",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/MK2silent.rpf",
