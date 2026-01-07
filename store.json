@@ -7,20 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "Combat Pistol 18",
-            "description": "Combat pistol azul con fajos de dolares",
-            "url": "https://www.mediafire.com/file/k6p4cg8jl44a6sj/sonidogaditan.zip/file",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/afsasf.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/afsasf.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113382_0_afsafs.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767113383_1_fasvo.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Combat Pistol"
-        },
-        {
             "name": "Glock Nike",
             "description": "Glock nikee",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/GlockNike.rpf",
