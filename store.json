@@ -7,18 +7,6 @@
     "Graficos": [],
     "Skins": [
         {
-            "name": "Heavy Pistol Nike",
-            "description": "Heavy Pistol Nike De color verde",
-            "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/heavypistolnike.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767082253_0_Heavypistolnike1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/imagenes/extra_1767111881_0_test.png"
-            ],
-            "section": "Skins",
-            "weapon_type": "Pistolas",
-            "weapon_model": "Heavy Pistol"
-        },
-        {
             "name": "SMG WHITE",
             "description": "Smg blanca como la coca",
             "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0/smgwhite.rpf",
