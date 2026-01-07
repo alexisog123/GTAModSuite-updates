@@ -23,5 +23,19 @@
     ],
     "": [],
     "citizens": [],
-    "_global_maintenance": false
+    "_global_maintenance": false,
+    "skins": [
+        {
+            "id": 1767769027,
+            "name": "Glock Real Cría – Pink Edition",
+            "description": "Skin exclusiva para pistola tipo Glock con un diseño urbano llamativo en rosa intenso y negro, detalles personalizados y estética street. Incluye gráficos únicos, acabado limpio y un estilo que destaca tanto en roleplay como en combate. Ideal para personajes que quieren marcar presencia y estilo sin pasar desapercibidos.",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/skins/glockpinkedition.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769023_cover_glockpink1.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769023_cover_glockpink1.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769024_ex_glockpink2.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769026_ex_glockpink3.png"
+            ]
+        }
+    ]
 }
