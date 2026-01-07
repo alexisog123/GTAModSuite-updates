@@ -30,5 +30,13 @@
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-07"
+    },
+    {
+        "hwid": "SAPPHIREOS-ADMINISTRATOR",
+        "name": "User-SAPPHI",
+        "active": false,
+        "expiration": null,
+        "role": "user",
+        "created_at": "2026-01-07"
     }
 ]
