@@ -31,7 +31,11 @@
             "description": "Skin exclusiva para pistola tipo Glock con un diseño blanco perla y negro, acompañada de una cadena dorada y un cargador personalizado con billetes, representando poder, calle y lujo. Una combinación perfecta entre elegancia y actitud gangster. Ideal para personajes de alto perfil, mafias, líderes o jugadores que quieren demostrar estatus en cada movimiento.",
             "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/skins/glockmoneychain.rpf",
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
-            "images": []
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875910_ex_glockchain3.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875911_ex_glockchain2.png"
+            ]
         }
     ],
     "smg": [
