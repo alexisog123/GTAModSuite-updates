@@ -9,20 +9,7 @@
     "": [],
     "citizens": [],
     "_global_maintenance": false,
-    "skins": [
-        {
-            "id": 1767769588,
-            "name": "Glock Money Chain – White Luxury",
-            "description": "Skin exclusiva para pistola tipo Glock con un diseño blanco perla y negro, acompañada de una cadena dorada y un cargador personalizado con billetes, representando poder, calle y lujo. Una combinación perfecta entre elegancia y actitud gangster. Ideal para personajes de alto perfil, mafias, líderes o jugadores que quieren demostrar estatus en cada movimiento.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/skins/glockmoneychain.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769585_ex_glockchain3.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769586_ex_glockchain2.png"
-            ]
-        }
-    ],
+    "skins": [],
     "pistol_mk2": [
         {
             "id": 1767769027,
