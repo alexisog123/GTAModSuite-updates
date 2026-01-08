@@ -36,6 +36,17 @@
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875910_ex_glockchain3.png",
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875911_ex_glockchain2.png"
             ]
+        },
+        {
+            "id": 1767901618,
+            "name": "dsasad",
+            "description": "adsads",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/pistol/smgnikered.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901616_cover_SMGNike3.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901616_cover_SMGNike3.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901617_ex_SMGNike1.png"
+            ]
         }
     ],
     "smg": [
