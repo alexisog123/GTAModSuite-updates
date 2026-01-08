@@ -50,6 +50,18 @@
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874765_ex_smgtactki2.png",
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874767_ex_smgtactki3.png"
             ]
+        },
+        {
+            "id": 1767901250,
+            "name": "SMG Nike – Red Galaxy",
+            "description": "Subfusil estilo MP5 con diseño rojo galáctico, detalles luminosos y estética urbana premium. Configuración silenciosa ideal para combates cercanos, misiones tácticas y personajes que buscan destacar con estilo y presencia. Una skin agresiva, limpia y perfectamente balanceada para el combate urbano.",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/smg/smgnikered.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901246_cover_SMGNike3.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901246_cover_SMGNike3.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901247_ex_SMGNike2.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767901248_ex_SMGNike1.png"
+            ]
         }
     ]
 }
