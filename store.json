@@ -29,5 +29,19 @@
             "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
             "images": []
         }
+    ],
+    "smg": [
+        {
+            "id": 1767874768,
+            "name": "Micro SMG XX – Silver Tactical",
+            "description": "SMG compacta de alto rendimiento con diseño plateado táctico, detalles gráficos custom y configuración silenciosa. Ideal para combates cerrados, operaciones sigilosas y personajes que priorizan control, precisión y estilo moderno. Una pieza liviana pero letal para el combate urbano.",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/smg/smgxxtactical.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874765_ex_smgtactki2.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874767_ex_smgtactki3.png"
+            ]
+        }
     ]
 }
