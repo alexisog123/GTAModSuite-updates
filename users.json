@@ -70,5 +70,13 @@
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-16"
+    },
+    {
+        "hwid": "DESKTOP-R13SV1E-ALEXIS",
+        "name": "User-DESKTO",
+        "active": false,
+        "expiration": null,
+        "role": "user",
+        "created_at": "2026-01-19"
     }
 ]
