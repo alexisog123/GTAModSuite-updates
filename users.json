@@ -78,5 +78,13 @@
         "expiration": "LIFETIME",
         "role": "user",
         "created_at": "2026-01-19"
+    },
+    {
+        "hwid": "PINGUII-ADMINISTRATOR",
+        "name": "User-PINGUI",
+        "active": false,
+        "expiration": null,
+        "role": "user",
+        "created_at": "2026-01-19"
     }
 ]
