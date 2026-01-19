@@ -82,7 +82,7 @@
     {
         "hwid": "PINGUII-ADMINISTRATOR",
         "name": "User-PINGUI",
-        "active": false,
+        "active": true,
         "expiration": null,
         "role": "user",
         "created_at": "2026-01-19"
