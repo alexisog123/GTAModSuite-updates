@@ -149,5 +149,12 @@
         "active": false,
         "role": "user",
         "created": "2026-01-20"
+    },
+    {
+        "hwid": "DESKTOP-LI1QJI4-MATEO",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-20"
     }
 ]
