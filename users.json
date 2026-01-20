@@ -107,5 +107,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-19"
+    },
+    {
+        "hwid": "DESKTOP-50CDL59-54348",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-19"
     }
 ]
