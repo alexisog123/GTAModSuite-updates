@@ -128,5 +128,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-19"
+    },
+    {
+        "hwid": "PATRICIO-PATRI",
+        "name": "User-PATRIC",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-20"
     }
 ]
