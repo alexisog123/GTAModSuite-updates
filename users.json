@@ -93,5 +93,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-19"
+    },
+    {
+        "hwid": "DESKTOP-HSQ82LB-LIONEL",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-19"
     }
 ]
