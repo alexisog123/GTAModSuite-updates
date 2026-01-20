@@ -181,7 +181,7 @@
     {
         "hwid": "PORROGRATIS-PORRI",
         "name": "User-PORROG",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-20"
     }
