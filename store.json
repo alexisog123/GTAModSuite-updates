@@ -38,5 +38,17 @@
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874767_ex_smgtactki3.png"
             ]
         }
+    ],
+    "appistol": [
+        {
+            "id": 1768877024,
+            "name": "APP Pistol Carmesí",
+            "description": "Una pistola de diseño moderno bañada en un patrón rojo oscuro que refleja peligro y estilo. La APP Pistol Carmesí no solo destaca por su estética agresiva, sino también por su precisión y fiabilidad en situaciones de alto riesgo. Pensada para quienes no pasan desapercibidos, es el arma perfecta para marcar presencia en enfrentamientos donde cada segundo cuenta.",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/appistol/carmesi.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png"
+            ]
+        }
     ]
 }
