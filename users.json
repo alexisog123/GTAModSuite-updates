@@ -177,5 +177,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-20"
+    },
+    {
+        "hwid": "PORROGRATIS-PORRI",
+        "name": "User-PORROG",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-20"
     }
 ]
