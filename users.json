@@ -125,7 +125,7 @@
     {
         "hwid": "DESKTOP-DHCV90L-FERNA",
         "name": "User-DESKTO",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-19"
     }
