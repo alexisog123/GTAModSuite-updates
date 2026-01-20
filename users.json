@@ -132,7 +132,7 @@
     {
         "hwid": "PATRICIO-PATRI",
         "name": "User-PATRIC",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-20"
     }
