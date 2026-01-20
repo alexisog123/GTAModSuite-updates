@@ -167,7 +167,7 @@
     {
         "hwid": "DESKTOP-8BF9IS3-USER",
         "name": "User-DESKTO",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-20"
     }
