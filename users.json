@@ -170,5 +170,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-20"
+    },
+    {
+        "hwid": "DESKTOP-6KROS9I-USUARIO",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-20"
     }
 ]
