@@ -100,5 +100,12 @@
         "active": false,
         "role": "user",
         "created": "2026-01-19"
+    },
+    {
+        "hwid": "DESKTOP-CQD0N04-USUARIO",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-19"
     }
 ]
