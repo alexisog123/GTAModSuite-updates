@@ -139,7 +139,7 @@
     {
         "hwid": "CRISTIAN-CRISLOVE",
         "name": "User-CRISTI",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-20"
     }
