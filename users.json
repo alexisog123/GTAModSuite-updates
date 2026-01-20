@@ -135,5 +135,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-20"
+    },
+    {
+        "hwid": "CRISTIAN-CRISLOVE",
+        "name": "User-CRISTI",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-20"
     }
 ]
