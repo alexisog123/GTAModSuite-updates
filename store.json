@@ -71,6 +71,16 @@
             "images": [
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg"
             ]
+        },
+        {
+            "id": 1768982210,
+            "name": "Gaditano2",
+            "description": "realista",
+            "url": "https://www.mediafire.com/file/9xfgwxwxayzguvh/Gaditano2.zip/file",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768982208_cover_iOS-17-wallpaper-light_png.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768982208_cover_iOS-17-wallpaper-light_png.jpg"
+            ]
         }
     ]
 }
