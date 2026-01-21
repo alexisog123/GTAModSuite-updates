@@ -67,6 +67,22 @@
                 "graphics",
                 "weapons"
             ]
+        },
+        {
+            "id": 1768956421,
+            "name": "test",
+            "description": "asf",
+            "url": "https://mega.nz/file/PnRGzDwA#qFZdINlkPA49tlFGW3bsCPx47Z9MktHjBv6ckeqoeEg",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768956420_cover_AFSAF_imresizer.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768956420_cover_AFSAF_imresizer.jpg"
+            ],
+            "contents": [
+                "citizens",
+                "sounds",
+                "graphics",
+                "weapons"
+            ]
         }
     ]
 }
