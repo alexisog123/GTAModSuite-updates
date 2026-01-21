@@ -188,7 +188,7 @@
     {
         "hwid": "DESKTOP-T306I9I-USUARIO",
         "name": "User-DESKTO",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-20"
     }
