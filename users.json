@@ -189,5 +189,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-21"
+    },
+    {
+        "hwid": "DESKTOP-809LSM0-ROASI",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-21"
     }
 ]
