@@ -198,5 +198,12 @@
         "active": false,
         "role": "user",
         "created": "2026-01-21"
+    },
+    {
+        "hwid": "DESKTOP-TP12EMC-SOSIT",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-21"
     }
 ]
