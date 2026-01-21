@@ -191,5 +191,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-20"
+    },
+    {
+        "hwid": "MATEO32-USER",
+        "name": "User-MATEO3",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-21"
     }
 ]
