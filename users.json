@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "hwid": "DESKTOP-R13SV1E-ALEXIS",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-21"
+    }
+]
