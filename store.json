@@ -51,22 +51,5 @@
             ]
         }
     ],
-    "packs": [
-        {
-            "id": 1768954944,
-            "name": "ads",
-            "description": "asd",
-            "url": "https://www.mediafire.com/file/w9wq66wqmfgh6ug/Gaditano.zip/file",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768954943_cover_image_imresizer.jpg",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768954943_cover_image_imresizer.jpg"
-            ],
-            "contents": [
-                "citizens",
-                "sounds",
-                "graphics",
-                "weapons"
-            ]
-        }
-    ]
+    "packs": []
 }
