@@ -195,7 +195,7 @@
     {
         "hwid": "MATEO32-USER",
         "name": "User-MATEO3",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-21"
     },
