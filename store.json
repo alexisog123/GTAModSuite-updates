@@ -61,6 +61,16 @@
             "images": [
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980064_cover_AFSAF_imresizer.jpg"
             ]
+        },
+        {
+            "id": 1768980180,
+            "name": "Citizen optimizado 1",
+            "description": "+fps",
+            "url": "https://www.mediafire.com/file/egneaxxuyb0ozm8/Citizen_opti_1.zip/file",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg"
+            ]
         }
     ]
 }
