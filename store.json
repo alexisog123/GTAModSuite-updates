@@ -53,16 +53,6 @@
     ],
     "packs": [
         {
-            "id": 1768980065,
-            "name": "Gaditano Graphics",
-            "description": "Graficos realistas",
-            "url": "https://www.mediafire.com/file/w9wq66wqmfgh6ug/Gaditano.zip/file",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980064_cover_AFSAF_imresizer.jpg",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980064_cover_AFSAF_imresizer.jpg"
-            ]
-        },
-        {
             "id": 1768980180,
             "name": "Citizen optimizado 1",
             "description": "+fps",
