@@ -196,5 +196,12 @@
         "active": true,
         "role": "user",
         "created": "2026-01-21"
+    },
+    {
+        "hwid": "DESKTOP-7P49B7E-PANDA",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-01-29"
     }
 ]
