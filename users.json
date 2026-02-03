@@ -203,5 +203,12 @@
         "active": false,
         "role": "user",
         "created": "2026-01-29"
+    },
+    {
+        "hwid": "DESKTOP-1TCKLTL-CORSAIR",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-03"
     }
 ]
