@@ -200,7 +200,7 @@
     {
         "hwid": "DESKTOP-7P49B7E-PANDA",
         "name": "User-DESKTO",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-01-29"
     },
