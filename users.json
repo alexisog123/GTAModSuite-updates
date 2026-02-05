@@ -210,5 +210,12 @@
         "active": false,
         "role": "user",
         "created": "2026-02-03"
+    },
+    {
+        "hwid": "DESKTOP-5RM81NQ-USUARIO",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-04"
     }
 ]
