@@ -207,7 +207,7 @@
     {
         "hwid": "DESKTOP-1TCKLTL-CORSAIR",
         "name": "User-DESKTO",
-        "active": true,
+        "active": false,
         "role": "user",
         "created": "2026-02-03"
     },
