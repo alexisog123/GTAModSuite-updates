@@ -224,5 +224,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-05"
+    },
+    {
+        "hwid": "DESKTOP-67P0NGH-USER",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-12"
     }
 ]
