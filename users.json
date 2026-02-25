@@ -238,5 +238,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-25"
+    },
+    {
+        "hwid": "DESKTOP-V2BOV57-USUARIO",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-25"
     }
 ]
