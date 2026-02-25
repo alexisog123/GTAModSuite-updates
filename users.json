@@ -231,5 +231,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-12"
+    },
+    {
+        "hwid": "DESKTOP-NKI4B61-W10-PC",
+        "name": "User-DESKTO",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-25"
     }
 ]
