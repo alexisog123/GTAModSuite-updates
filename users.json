@@ -270,7 +270,7 @@
     {
         "hwid": "PC-9C91F55D3C8B",
         "name": "Gustavito",
-        "active": true,
+        "active": false,
         "role": "user",
         "created": "2026-02-26"
     },
