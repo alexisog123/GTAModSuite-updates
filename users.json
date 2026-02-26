@@ -295,5 +295,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-26"
+    },
+    {
+        "hwid": "PC-1C875BFCD895",
+        "name": "User-PC-1C8",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-26"
     }
 ]
