@@ -287,5 +287,12 @@
         "active": false,
         "role": "user",
         "created": "2026-02-26"
+    },
+    {
+        "hwid": "PC-5553A0CF4516",
+        "name": "User-PC-555",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-26"
     }
 ]
