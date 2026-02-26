@@ -277,7 +277,7 @@
     {
         "hwid": "PC-C2434CB30389",
         "name": "User-PC-C24",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-02-26"
     }
