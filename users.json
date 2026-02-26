@@ -280,5 +280,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-26"
+    },
+    {
+        "hwid": "PC-A50131E4EE45",
+        "name": "User-PC-A50",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-26"
     }
 ]
