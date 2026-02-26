@@ -259,5 +259,12 @@
         "active": false,
         "role": "user",
         "created": "2026-02-25"
+    },
+    {
+        "hwid": "PC-47F2A66F21BC",
+        "name": "User-PC-47F",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-26"
     }
 ]
