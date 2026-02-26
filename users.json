@@ -273,5 +273,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-26"
+    },
+    {
+        "hwid": "PC-C2434CB30389",
+        "name": "User-PC-C24",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-26"
     }
 ]
