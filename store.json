@@ -23,6 +23,19 @@
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875910_ex_glockchain3.png",
                 "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875911_ex_glockchain2.png"
             ]
+        },
+        {
+            "id": 1772220133,
+            "name": "APP Pistol – Edición Cromática Abstracta",
+            "description": "La APP Pistol destaca por un acabado artístico que rompe con lo convencional. Su superficie está cubierta por un patrón fluido y dinámico donde los tonos azul eléctrico predominan, fusionándose con destellos violetas, rojos intensos y sutiles acentos blancos.  El diseño crea un efecto marmoleado hipnótico, como si la pistola estuviera envuelta en energía líquida. Las líneas curvas y onduladas generan movimiento visual desde cualquier ángulo, dando la sensación de profundidad y dinamismo constante.  El contraste entre el cuerpo multicolor y la empuñadura negra texturizada aporta equilibrio: arte y sobriedad en una sola pieza. Es un acabado que transmite personalidad, modernidad y un estilo audaz.  Esta versión no pasa desapercibida. Es una declaración visual: intensa, vibrante y única.",
+            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/pistol/SKin.rpf",
+            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
+            "images": [
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220129_ex_ap4.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220130_ex_ap3.png",
+                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220131_ex_ap2.png"
+            ]
         }
     ],
     "smg": [
