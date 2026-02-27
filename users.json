@@ -302,5 +302,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-26"
+    },
+    {
+        "hwid": "PC-92DDEA8231DD",
+        "name": "User-PC-92D",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-27"
     }
 ]
