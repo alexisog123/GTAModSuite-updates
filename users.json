@@ -316,5 +316,12 @@
         "active": true,
         "role": "user",
         "created": "2026-02-27"
+    },
+    {
+        "hwid": "PC-DDC42215A55D",
+        "name": "User-PC-DDC",
+        "active": false,
+        "role": "user",
+        "created": "2026-02-28"
     }
 ]
