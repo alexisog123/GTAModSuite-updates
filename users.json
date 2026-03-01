@@ -330,5 +330,12 @@
         "active": false,
         "role": "user",
         "created": "2026-03-01"
+    },
+    {
+        "hwid": "PC-E89752AF46BB",
+        "name": "User-PC-E89",
+        "active": false,
+        "role": "user",
+        "created": "2026-03-01"
     }
 ]
