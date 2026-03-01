@@ -320,7 +320,7 @@
     {
         "hwid": "PC-DDC42215A55D",
         "name": "User-PC-DDC",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-02-28"
     },
