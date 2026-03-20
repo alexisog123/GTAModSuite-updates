@@ -365,5 +365,12 @@
         "active": true,
         "role": "user",
         "created": "2026-03-06"
+    },
+    {
+        "hwid": "PC-76109F7ACC1F",
+        "name": "User-PC-761",
+        "active": false,
+        "role": "user",
+        "created": "2026-03-19"
     }
 ]
