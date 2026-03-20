@@ -355,7 +355,7 @@
     {
         "hwid": "PC-A624AB0E7071",
         "name": "User-PC-A62",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-03-02"
     },
