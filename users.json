@@ -372,5 +372,12 @@
         "active": true,
         "role": "user",
         "created": "2026-03-19"
+    },
+    {
+        "hwid": "PC-4CADB1F667C6",
+        "name": "User-PC-4CA",
+        "active": false,
+        "role": "user",
+        "created": "2026-03-30"
     }
 ]
