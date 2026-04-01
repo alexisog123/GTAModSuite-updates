@@ -386,5 +386,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-01"
+    },
+    {
+        "hwid": "PC-E783C1358C6B",
+        "name": "User-PC-E78",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-01"
     }
 ]
