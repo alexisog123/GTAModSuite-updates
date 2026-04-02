@@ -393,5 +393,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-01"
+    },
+    {
+        "hwid": "PC-A236B57249B1",
+        "name": "User-PC-A23",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-02"
     }
 ]
