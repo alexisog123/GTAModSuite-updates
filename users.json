@@ -390,7 +390,7 @@
     {
         "hwid": "PC-E783C1358C6B",
         "name": "User-PC-E78",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-04-01"
     },
