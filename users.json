@@ -400,5 +400,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-02"
+    },
+    {
+        "hwid": "PC-65A2EFAD5DB9",
+        "name": "User-PC-65A",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-06"
     }
 ]
