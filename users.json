@@ -407,5 +407,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-06"
+    },
+    {
+        "hwid": "PC-B10668B2D104",
+        "name": "User-PC-B10",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-09"
     }
 ]
