@@ -414,5 +414,12 @@
         "active": true,
         "role": "user",
         "created": "2026-04-09"
+    },
+    {
+        "hwid": "PC-504FBD782CA9",
+        "name": "User-PC-504",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-10"
     }
 ]
