@@ -421,5 +421,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-10"
+    },
+    {
+        "hwid": "PC-257ECEBB1486",
+        "name": "User-PC-257",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-12"
     }
 ]
