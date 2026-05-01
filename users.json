@@ -435,5 +435,12 @@
         "active": false,
         "role": "user",
         "created": "2026-04-24"
+    },
+    {
+        "hwid": "PC-5B60684C5C41",
+        "name": "User-PC-5B6",
+        "active": false,
+        "role": "user",
+        "created": "2026-04-30"
     }
 ]
