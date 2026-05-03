@@ -383,7 +383,7 @@
     {
         "hwid": "PC-8D4818FCDAB0",
         "name": "User-PC-8D4",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-04-01"
     },
