@@ -418,7 +418,7 @@
     {
         "hwid": "PC-504FBD782CA9",
         "name": "User-PC-504",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-04-10"
     },
