@@ -456,5 +456,12 @@
         "active": true,
         "role": "user",
         "created": "2026-05-08"
+    },
+    {
+        "hwid": "PC-F41D275DA4F4",
+        "name": "User-PC-F41",
+        "active": false,
+        "role": "user",
+        "created": "2026-05-08"
     }
 ]
