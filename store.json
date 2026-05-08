@@ -1,106 +1,118 @@
 {
-    "Miras": [],
-    "Cielos": [],
-    "Reshade": [],
-    "Citizens": [],
-    "Sonidos": [],
-    "Graficos": [],
-    "Skins": [],
-    "": [],
-    "citizens": [],
-    "_global_maintenance": false,
-    "skins": [],
-    "pistol_mk2": [],
-    "pistol": [
-        {
-            "id": 1767769588,
-            "name": "Glock Money Chain – White Luxury",
-            "description": "Skin exclusiva para pistola tipo Glock con un diseño blanco perla y negro, acompañada de una cadena dorada y un cargador personalizado con billetes, representando poder, calle y lujo. Una combinación perfecta entre elegancia y actitud gangster. Ideal para personajes de alto perfil, mafias, líderes o jugadores que quieren demostrar estatus en cada movimiento.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/skins/glockmoneychain.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875910_ex_glockchain3.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875911_ex_glockchain2.png"
-            ]
-        },
-        {
-            "id": 1772220133,
-            "name": "APP Pistol – Edición Cromática Abstracta",
-            "description": "La APP Pistol destaca por un acabado artístico que rompe con lo convencional. Su superficie está cubierta por un patrón fluido y dinámico donde los tonos azul eléctrico predominan, fusionándose con destellos violetas, rojos intensos y sutiles acentos blancos.  El diseño crea un efecto marmoleado hipnótico, como si la pistola estuviera envuelta en energía líquida. Las líneas curvas y onduladas generan movimiento visual desde cualquier ángulo, dando la sensación de profundidad y dinamismo constante.  El contraste entre el cuerpo multicolor y la empuñadura negra texturizada aporta equilibrio: arte y sobriedad en una sola pieza. Es un acabado que transmite personalidad, modernidad y un estilo audaz.  Esta versión no pasa desapercibida. Es una declaración visual: intensa, vibrante y única.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/pistol/SKin.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220129_ex_ap4.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220130_ex_ap3.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220131_ex_ap2.png"
-            ]
-        }
-    ],
-    "smg": [
-        {
-            "id": 1767874768,
-            "name": "Micro SMG XX – Silver Tactical",
-            "description": "SMG compacta de alto rendimiento con diseño plateado táctico, detalles gráficos custom y configuración silenciosa. Ideal para combates cerrados, operaciones sigilosas y personajes que priorizan control, precisión y estilo moderno. Una pieza liviana pero letal para el combate urbano.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/smg/smgxxtactical.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874765_ex_smgtactki2.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874767_ex_smgtactki3.png"
-            ]
-        }
-    ],
-    "appistol": [
-        {
-            "id": 1768877024,
-            "name": "APP Pistol Carmesí",
-            "description": "Una pistola de diseño moderno bañada en un patrón rojo oscuro que refleja peligro y estilo. La APP Pistol Carmesí no solo destaca por su estética agresiva, sino también por su precisión y fiabilidad en situaciones de alto riesgo. Pensada para quienes no pasan desapercibidos, es el arma perfecta para marcar presencia en enfrentamientos donde cada segundo cuenta.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/appistol/carmesi.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png"
-            ]
-        },
-        {
-            "id": 1772224224,
-            "name": "APP Pistol – Edición Aurora Celeste",
-            "description": "La APP Pistol en esta versión se envuelve en una atmósfera cósmica de tonos azul profundo y turquesa brillante. Su acabado recuerda a una galaxia lejana: un degradado suave que transita entre azules oceánicos y destellos luminosos que simulan estrellas suspendidas en el espacio.  El efecto visual genera sensación de profundidad, como si el arma estuviera cubierta por un cielo nocturno infinito. Pequeños puntos claros dispersos sobre la superficie aportan un brillo sutil que contrasta con la base azul intensa, creando una estética limpia, moderna y elegante.  La empuñadura negra refuerza el contraste y hace que el acabado celestial resalte aún más, aportando equilibrio visual y presencia. Es un diseño que transmite calma, poder y misterio al mismo tiempo.",
-            "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/appistol/apauroraceleste.rpf",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224218_cover_presentacion.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224218_cover_presentacion.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224219_ex_pistola1.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224221_ex_pistola2.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224222_ex_pistola3.png"
-            ]
-        }
-    ],
-    "packs": [
-        {
-            "id": 1768980180,
-            "name": "Citizen optimizado 1",
-            "description": "+fps (optimizado por gustavito) ",
-            "url": "https://www.mediafire.com/file/egneaxxuyb0ozm8/Citizen_opti_1.zip/file",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg"
-            ]
-        },
-        {
-            "id": 1768982210,
-            "name": "Gaditano Graphics",
-            "description": "Llevá tu experiencia en FiveM a otro nivel con este pack ultra realista, pensado para quienes buscan máxima inmersión, calidad visual y sensaciones auténticas en cada situación.  🎮 Incluye:  ✅ Citizens mejorados – NPCs más realistas y detallados ✅ ENB optimizado – Iluminación, colores y sombras cinematográficas ✅ Sonidos reales de todas las armas – Disparos potentes y fieles a la vida real ✅ Físicas realistas – Movimientos y reacciones más naturales ✅ Sangre realista – Impactos mucho más inmersivos ✅ Humo de disparo realista – Efectos visuales precisos en cada tiro ✅ Tracer realista – Balas visibles con efecto profesional  🚀 Ideal para servidores RP exigentes, creadores de contenido y jugadores que quieren una experiencia seria y de alto nivel",
-            "url": "https://www.mediafire.com/file/9xfgwxwxayzguvh/Gaditano2.zip/file",
-            "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027181_cover_image4.png",
-            "images": [
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027181_cover_image4.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027183_ex_image.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027186_ex_image2.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027188_ex_image3.png",
-                "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027190_ex_image5.png"
-            ]
-        }
-    ]
+  "Miras": [],
+  "Cielos": [],
+  "Reshade": [],
+  "Citizens": [],
+  "Sonidos": [],
+  "Graficos": [],
+  "Skins": [],
+  "": [],
+  "citizens": [],
+  "_global_maintenance": false,
+  "skins": [],
+  "pistol_mk2": [],
+  "pistol": [
+    {
+      "id": 1767769588,
+      "name": "Glock Money Chain – White Luxury",
+      "description": "Skin exclusiva para pistola tipo Glock con un diseño blanco perla y negro, acompañada de una cadena dorada y un cargador personalizado con billetes, representando poder, calle y lujo. Una combinación perfecta entre elegancia y actitud gangster. Ideal para personajes de alto perfil, mafias, líderes o jugadores que quieren demostrar estatus en cada movimiento.",
+      "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/skins/glockmoneychain.rpf",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767769584_cover_glockchain1.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875910_ex_glockchain3.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767875911_ex_glockchain2.png"
+      ]
+    },
+    {
+      "id": 1772220133,
+      "name": "APP Pistol – Edición Cromática Abstracta",
+      "description": "La APP Pistol destaca por un acabado artístico que rompe con lo convencional. Su superficie está cubierta por un patrón fluido y dinámico donde los tonos azul eléctrico predominan, fusionándose con destellos violetas, rojos intensos y sutiles acentos blancos.  El diseño crea un efecto marmoleado hipnótico, como si la pistola estuviera envuelta en energía líquida. Las líneas curvas y onduladas generan movimiento visual desde cualquier ángulo, dando la sensación de profundidad y dinamismo constante.  El contraste entre el cuerpo multicolor y la empuñadura negra texturizada aporta equilibrio: arte y sobriedad en una sola pieza. Es un acabado que transmite personalidad, modernidad y un estilo audaz.  Esta versión no pasa desapercibida. Es una declaración visual: intensa, vibrante y única.",
+      "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/pistol/SKin.rpf",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220127_cover_ap1.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220129_ex_ap4.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220130_ex_ap3.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772220131_ex_ap2.png"
+      ]
+    }
+  ],
+  "smg": [
+    {
+      "id": 1767874768,
+      "name": "Micro SMG XX – Silver Tactical",
+      "description": "SMG compacta de alto rendimiento con diseño plateado táctico, detalles gráficos custom y configuración silenciosa. Ideal para combates cerrados, operaciones sigilosas y personajes que priorizan control, precisión y estilo moderno. Una pieza liviana pero letal para el combate urbano.",
+      "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/smg/smgxxtactical.rpf",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874764_cover_smgtactki1.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874765_ex_smgtactki2.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1767874767_ex_smgtactki3.png"
+      ]
+    }
+  ],
+  "appistol": [
+    {
+      "id": 1768877024,
+      "name": "APP Pistol Carmesí",
+      "description": "Una pistola de diseño moderno bañada en un patrón rojo oscuro que refleja peligro y estilo. La APP Pistol Carmesí no solo destaca por su estética agresiva, sino también por su precisión y fiabilidad en situaciones de alto riesgo. Pensada para quienes no pasan desapercibidos, es el arma perfecta para marcar presencia en enfrentamientos donde cada segundo cuenta.",
+      "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/appistol/carmesi.rpf",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768877023_cover_1.png"
+      ]
+    },
+    {
+      "id": 1772224224,
+      "name": "APP Pistol – Edición Aurora Celeste",
+      "description": "La APP Pistol en esta versión se envuelve en una atmósfera cósmica de tonos azul profundo y turquesa brillante. Su acabado recuerda a una galaxia lejana: un degradado suave que transita entre azules oceánicos y destellos luminosos que simulan estrellas suspendidas en el espacio.  El efecto visual genera sensación de profundidad, como si el arma estuviera cubierta por un cielo nocturno infinito. Pequeños puntos claros dispersos sobre la superficie aportan un brillo sutil que contrasta con la base azul intensa, creando una estética limpia, moderna y elegante.  La empuñadura negra refuerza el contraste y hace que el acabado celestial resalte aún más, aportando equilibrio visual y presencia. Es un diseño que transmite calma, poder y misterio al mismo tiempo.",
+      "url": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/downloads/appistol/apauroraceleste.rpf",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224218_cover_presentacion.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224218_cover_presentacion.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224219_ex_pistola1.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224221_ex_pistola2.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1772224222_ex_pistola3.png"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "id": 1768980180,
+      "name": "Citizen optimizado 1",
+      "description": "+fps (optimizado por gustavito) ",
+      "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/store-assets/Citizen_opti_1.zip",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1768980179_cover_image_imresizer.jpg"
+      ],
+      "mirrors": [
+        "https://www.mediafire.com/file/egneaxxuyb0ozm8/Citizen_opti_1.zip/file"
+      ],
+      "filename": "Citizen_opti_1.zip",
+      "source": "github_release",
+      "migrated_at": "2026-05-08T17:16:41.561176Z"
+    },
+    {
+      "id": 1768982210,
+      "name": "Gaditano Graphics",
+      "description": "Llevá tu experiencia en FiveM a otro nivel con este pack ultra realista, pensado para quienes buscan máxima inmersión, calidad visual y sensaciones auténticas en cada situación.  🎮 Incluye:  ✅ Citizens mejorados – NPCs más realistas y detallados ✅ ENB optimizado – Iluminación, colores y sombras cinematográficas ✅ Sonidos reales de todas las armas – Disparos potentes y fieles a la vida real ✅ Físicas realistas – Movimientos y reacciones más naturales ✅ Sangre realista – Impactos mucho más inmersivos ✅ Humo de disparo realista – Efectos visuales precisos en cada tiro ✅ Tracer realista – Balas visibles con efecto profesional  🚀 Ideal para servidores RP exigentes, creadores de contenido y jugadores que quieren una experiencia seria y de alto nivel",
+      "url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/store-assets/Gaditano2.zip",
+      "image": "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027181_cover_image4.png",
+      "images": [
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027181_cover_image4.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027183_ex_image.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027186_ex_image2.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027188_ex_image3.png",
+        "https://raw.githubusercontent.com/alexisog123/GTAModSuite-updates/main/images/1769027190_ex_image5.png"
+      ],
+      "mirrors": [
+        "https://www.mediafire.com/file/9xfgwxwxayzguvh/Gaditano2.zip/file"
+      ],
+      "filename": "Gaditano2.zip",
+      "source": "github_release",
+      "migrated_at": "2026-05-08T17:16:41.561176Z"
+    }
+  ]
 }
