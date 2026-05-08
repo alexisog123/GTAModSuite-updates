@@ -1,8 +1,8 @@
 {
-  "version": "1.0.66",
-  "installer_version": "html-installer-2026-05-08-manual-download-assist",
+  "version": "1.0.67",
+  "installer_version": "html-installer-2026-05-08-github-store-assets",
   "installer_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/installer-latest/Setup_ModManagerOG_Online.exe",
   "filename": "ModManager-Setup.exe",
   "notes": "Instalador online HTML. Instala la version publicada en update.json.",
-  "updated_at": "2026-05-08T16:35:45.244678Z"
+  "updated_at": "2026-05-08T17:21:38.480978Z"
 }
