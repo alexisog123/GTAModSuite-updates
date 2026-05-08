@@ -453,7 +453,7 @@
     {
         "hwid": "PC-1758CB8F1F66",
         "name": "User-PC-175",
-        "active": false,
+        "active": true,
         "role": "user",
         "created": "2026-05-08"
     }
