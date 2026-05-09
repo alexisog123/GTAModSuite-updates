@@ -1,36 +1,36 @@
 [
-    {
-        "hwid": "PC-1758CB8F1F66",
-        "name": "admin",
-        "role": "owner",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-09T11:59:38Z",
-        "last_login": "2026-05-09T13:47:13Z",
-        "permissions": [
-            "users",
-            "store",
-            "reports",
-            "maintenance",
-            "admins",
-            "updates"
-        ],
-        "updated_at": "2026-05-09T13:45:49.180Z"
-    },
-    {
-        "hwid": "PC-554EA4BE52EF",
-        "name": "Admin-BE52EF",
-        "role": "owner",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-09T13:11:35.932Z",
-        "last_login": "",
-        "permissions": [
-            "users",
-            "store",
-            "reports"
-        ],
-        "registered_by": "admin_panel_auto_request",
-        "updated_at": "2026-05-09T13:45:28.858Z"
-    }
+  {
+    "hwid": "PC-1758CB8F1F66",
+    "name": "admin",
+    "role": "owner",
+    "active": true,
+    "status": "active",
+    "created_at": "2026-05-09T11:59:38Z",
+    "last_login": "2026-05-09T13:47:13Z",
+    "permissions": [
+      "users",
+      "store",
+      "reports",
+      "maintenance",
+      "admins",
+      "updates"
+    ],
+    "updated_at": "2026-05-09T13:45:49.180Z"
+  },
+  {
+    "hwid": "PC-554EA4BE52EF",
+    "name": "Admin-BE52EF",
+    "role": "owner",
+    "active": true,
+    "status": "active",
+    "created_at": "2026-05-09T13:11:35.932Z",
+    "last_login": "",
+    "permissions": [
+      "users",
+      "store",
+      "reports"
+    ],
+    "registered_by": "admin_panel_auto_request",
+    "updated_at": "2026-05-09T13:51:38.833Z"
+  }
 ]
