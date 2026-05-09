@@ -1,7 +1,7 @@
 {
   "version": "1.0.82",
-  "admin_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/ModManagerOG_Admin.exe?v=1778329804",
+  "admin_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/ModManagerOG_Admin.exe?v=1778330467",
   "filename": "ModManagerOG_Admin.exe",
-  "update_zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778329804",
+  "update_zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778330467",
   "changelog": "Panel admin interno con acceso por HWID, gestion de socios y actualizaciones automaticas."
 }
