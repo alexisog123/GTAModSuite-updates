@@ -1,7 +1,7 @@
 {
-  "version": "1.0.77",
+  "version": "1.0.78",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.77/update_v1.0.77.zip",
-  "published_at": "2026-05-09T05:51:41Z",
-  "changelog": "Nuevas animaciones visuales fluidas e integracion oficial de Discord Rich Presence para mostrar tu estado mientras usas la aplicacion."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.78/update_v1.0.78.zip",
+  "published_at": "2026-05-09T06:06:35Z",
+  "changelog": "Correcci?n de estabilidad: soluciona el inicio atascado en Conectando, restaura la experiencia estable de la app y mantiene las mejoras recientes."
 }
