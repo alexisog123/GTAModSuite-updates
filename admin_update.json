@@ -1,5 +1,5 @@
 {
-  "version": "1.0.83",
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778332505",
-  "changelog": "Panel admin interno con registro automatico de HWID, acciones por Vercel y correccion de botones de usuarios y admins."
+  "version": "1.0.84",
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778334600",
+  "changelog": "Panel admin interno con lectura publica estable de autorizaciones, correccion de falsos equipos pendientes y acciones por Vercel."
 }
