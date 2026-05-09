@@ -1,7 +1,7 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.83",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.80/update_v1.0.80.zip",
-  "published_at": "2026-05-09T07:20:01Z",
-  "changelog": "Integracion con Discord Rich Presence: muestra Mod Manager OG en el perfil, estados por seccion y boton Website. Funciona de fondo sin molestar si Discord no esta abierto."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.83/update_v1.0.83.zip",
+  "published_at": "2026-05-09T13:32:40Z",
+  "changelog": "Correccion del arranque: la app valida licencias con lectura publica estable y ya no queda congelada en Conectando si GitHub limita la API."
 }
