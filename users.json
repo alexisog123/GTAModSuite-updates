@@ -111,7 +111,8 @@
         "name": "User-DESKTO",
         "active": true,
         "role": "user",
-        "created": "2026-01-19"
+        "created": "2026-01-19",
+        "expiration": "2026-05-16"
     },
     {
         "hwid": "PATRICIO-PATRI",
