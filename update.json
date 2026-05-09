@@ -1,7 +1,7 @@
 {
-  "version": "1.0.78",
+  "version": "1.0.79",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.78/update_v1.0.78.zip",
-  "published_at": "2026-05-09T06:06:35Z",
-  "changelog": "Correccion de estabilidad: soluciona el inicio atascado en Conectando, restaura la experiencia estable de la app y mantiene las mejoras recientes."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.79/update_v1.0.79.zip",
+  "published_at": "2026-05-09T06:20:09Z",
+  "changelog": "Restauracion de estabilidad: vuelve la interfaz funcional de la version 1.0.76 y corrige el problema visual de la ventana principal."
 }
