@@ -15,21 +15,5 @@
             "admins",
             "updates"
         ]
-    },
-    {
-        "hwid": "PC-554EA4BE52EF",
-        "name": "Admin-BE52EF",
-        "role": "admin",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-09T12:56:43.709Z",
-        "last_login": "",
-        "permissions": [
-            "users",
-            "store",
-            "reports"
-        ],
-        "registered_by": "admin_panel_auto_request",
-        "updated_at": "2026-05-09T13:08:02Z"
     }
 ]
