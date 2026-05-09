@@ -3,5 +3,5 @@
   "required": true,
   "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.76/update_v1.0.76.zip",
   "published_at": "2026-05-09T03:50:40Z",
-  "changelog": "Reportes con modal propio, motivo y detalle; diagnostico copiable; historial de reportes; panel admin agrupado por prioridad; instalador v1.0.76.1 con lectura por API anti-cache."
+  "changelog": "Nueva interfaz del instalador, reportes m?s claros, tienda m?s estable, mejoras en descargas, keybinds silenciosos, gr?ficos personalizados y una experiencia general m?s profesional."
 }
