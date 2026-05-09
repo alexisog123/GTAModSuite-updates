@@ -1,7 +1,7 @@
 [
   {
     "hwid": "PC-1758CB8F1F66",
-    "name": "admin",
+    "name": "Alexis PC host",
     "role": "owner",
     "active": true,
     "status": "active",
@@ -15,7 +15,7 @@
       "admins",
       "updates"
     ],
-    "updated_at": "2026-05-09T13:45:49.180Z"
+    "updated_at": "2026-05-09T13:54:17.160Z"
   },
   {
     "hwid": "PC-554EA4BE52EF",
