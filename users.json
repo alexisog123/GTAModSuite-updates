@@ -1,475 +1,467 @@
 [
-    {
-        "hwid": "DESKTOP-7P49B7E-KEVIN ROJAS",
-        "name": "User-DESKTO",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-03"
-    },
-    {
-        "hwid": "DESKTOP-91VRLBH-PINGUI",
-        "name": "Paraguayo",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-07"
-    },
-    {
-        "hwid": "SAPPHIREOS-ADMINISTRATOR",
-        "name": "User-SAPPHI",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-07"
-    },
-    {
-        "hwid": "DESKTOP-93R3E84-NACHO",
-        "name": "User-DESKTO",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-07"
-    },
-    {
-        "hwid": "DESKTOP-FBFC2AJ-ALAN",
-        "name": "User-DESKTO",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-09"
-    },
-    {
-        "hwid": "DESKTOP-TTPR9MJ-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-16"
-    },
-    {
-        "hwid": "TOMI-TOMI",
-        "name": "User-TOMI-T",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-16"
-    },
-    {
-        "hwid": "DESKTOP-R13SV1E-ALEXIS",
-        "name": "YO",
-        "active": true,
-        "expiration": "LIFETIME",
-        "role": "user",
-        "created_at": "2026-01-19"
-    },
-    {
-        "hwid": "PINGUII-ADMINISTRATOR",
-        "name": "User-PINGUI",
-        "active": true,
-        "expiration": null,
-        "role": "user",
-        "created_at": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-ST4LL63-LUUCHITOOO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-HSQ82LB-LIONEL",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-CQD0N04-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-50CDL59-54348",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-155T9G1-TIZIANO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19"
-    },
-    {
-        "hwid": "DESKTOP-DHCV90L-FERNA",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-19",
-        "expiration": "2026-05-16"
-    },
-    {
-        "hwid": "PATRICIO-PATRI",
-        "name": "User-PATRIC",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "CRISTIAN-CRISLOVE",
-        "name": "User-CRISTI",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-H7RPGIA-USER",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-LI1QJI4-MATEO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-D55TUGN-GONZA",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-8BF9IS3-USER",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-6KROS9I-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "PORROGRATIS-PORRI",
-        "name": "User-PORROG",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "DESKTOP-T306I9I-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-20"
-    },
-    {
-        "hwid": "MATEO32-USER",
-        "name": "User-MATEO3",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-21"
-    },
-    {
-        "hwid": "DESKTOP-TP12EMC-SOSIT",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-21"
-    },
-    {
-        "hwid": "DESKTOP-809LSM0-ROASI",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-21"
-    },
-    {
-        "hwid": "DESKTOP-7P49B7E-PANDA",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-01-29"
-    },
-    {
-        "hwid": "DESKTOP-1TCKLTL-CORSAIR",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-03"
-    },
-    {
-        "hwid": "DESKTOP-5RM81NQ-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-04"
-    },
-    {
-        "hwid": "DESKTOP-GK8TQR2-PANDITA",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-05"
-    },
-    {
-        "hwid": "DESKTOP-67P0NGH-USER",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-12"
-    },
-    {
-        "hwid": "DESKTOP-NKI4B61-W10-PC",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-25"
-    },
-    {
-        "hwid": "DESKTOP-V2BOV57-USUARIO",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-25"
-    },
-    {
-        "hwid": "PC-554EA4BE52EF",
-        "name": "User-PC-554",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-25"
-    },
-    {
-        "hwid": "DESKTOP-IU9P1UV-LAUTY",
-        "name": "User-DESKTO",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-25"
-    },
-    {
-        "hwid": "PC-47F2A66F21BC",
-        "name": "User-PC-47F",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26"
-    },
-    {
-        "hwid": "PC-9C91F55D3C8B",
-        "name": "Gustavito",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26",
-        "expiration": "LIFETIME"
-    },
-    {
-        "hwid": "PC-C2434CB30389",
-        "name": "User-PC-C24",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26"
-    },
-    {
-        "hwid": "PC-A50131E4EE45",
-        "name": "User-PC-A50",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26"
-    },
-    {
-        "hwid": "PC-5553A0CF4516",
-        "name": "User-PC-555",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26"
-    },
-    {
-        "hwid": "PC-1C875BFCD895",
-        "name": "Pela",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-26"
-    },
-    {
-        "hwid": "PC-92DDEA8231DD",
-        "name": "User-PC-92D",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-27"
-    },
-    {
-        "hwid": "PC-BE69B7646922",
-        "name": "User-PC-BE6",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-27"
-    },
-    {
-        "hwid": "PC-DDC42215A55D",
-        "name": "User-PC-DDC",
-        "active": true,
-        "role": "user",
-        "created": "2026-02-28"
-    },
-    {
-        "hwid": "PC-04EAD8B41C0E",
-        "name": "User-PC-04E",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-01"
-    },
-    {
-        "hwid": "PC-E89752AF46BB",
-        "name": "User-PC-E89",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-01"
-    },
-    {
-        "hwid": "PC-A522A1217836",
-        "name": "User-PC-A52",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-01"
-    },
-    {
-        "hwid": "PC-6B0566D9EFA1",
-        "name": "User-PC-6B0",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-01"
-    },
-    {
-        "hwid": "PC-A624AB0E7071",
-        "name": "User-PC-A62",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-02"
-    },
-    {
-        "hwid": "PC-7C1690EEB3AD",
-        "name": "User-PC-7C1",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-06"
-    },
-    {
-        "hwid": "PC-76109F7ACC1F",
-        "name": "User-PC-761",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-19"
-    },
-    {
-        "hwid": "PC-4CADB1F667C6",
-        "name": "User-PC-4CA",
-        "active": true,
-        "role": "user",
-        "created": "2026-03-30"
-    },
-    {
-        "hwid": "PC-8D4818FCDAB0",
-        "name": "User-PC-8D4",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-01"
-    },
-    {
-        "hwid": "PC-E783C1358C6B",
-        "name": "User-PC-E78",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-01"
-    },
-    {
-        "hwid": "PC-A236B57249B1",
-        "name": "User-PC-A23",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-02"
-    },
-    {
-        "hwid": "PC-65A2EFAD5DB9",
-        "name": "User-PC-65A",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-06"
-    },
-    {
-        "hwid": "PC-B10668B2D104",
-        "name": "User-PC-B10",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-09"
-    },
-    {
-        "hwid": "PC-504FBD782CA9",
-        "name": "User-PC-504",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-10"
-    },
-    {
-        "hwid": "PC-257ECEBB1486",
-        "name": "User-PC-257",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-12"
-    },
-    {
-        "hwid": "PC-E82E1AEEB008",
-        "name": "User-PC-E82",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-24"
-    },
-    {
-        "hwid": "PC-5B60684C5C41",
-        "name": "User-PC-5B6",
-        "active": true,
-        "role": "user",
-        "created": "2026-04-30"
-    },
-    {
-        "hwid": "PC-A6E51A5D4519",
-        "name": "User-PC-A6E",
-        "active": true,
-        "role": "user",
-        "created": "2026-05-03"
-    },
-    {
-        "hwid": "PC-1758CB8F1F66",
-        "name": "User-PC-175",
-        "active": true,
-        "role": "user",
-        "created": "2026-05-08"
-    },
-    {
-        "hwid": "PC-F41D275DA4F4",
-        "name": "User-PC-F41",
-        "active": true,
-        "role": "user",
-        "created": "2026-05-08"
-    },
-    {
-        "hwid": "PC-8D43562550FE",
-        "name": "User-PC-8D4",
-        "active": true,
-        "role": "user",
-        "created": "2026-05-08"
-    }
+  {
+    "hwid": "DESKTOP-91VRLBH-PINGUI",
+    "name": "Paraguayo",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-07"
+  },
+  {
+    "hwid": "SAPPHIREOS-ADMINISTRATOR",
+    "name": "User-SAPPHI",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-07"
+  },
+  {
+    "hwid": "DESKTOP-93R3E84-NACHO",
+    "name": "User-DESKTO",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-07"
+  },
+  {
+    "hwid": "DESKTOP-FBFC2AJ-ALAN",
+    "name": "User-DESKTO",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-09"
+  },
+  {
+    "hwid": "DESKTOP-TTPR9MJ-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-16"
+  },
+  {
+    "hwid": "TOMI-TOMI",
+    "name": "User-TOMI-T",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-16"
+  },
+  {
+    "hwid": "DESKTOP-R13SV1E-ALEXIS",
+    "name": "YO",
+    "active": true,
+    "expiration": "LIFETIME",
+    "role": "user",
+    "created_at": "2026-01-19"
+  },
+  {
+    "hwid": "PINGUII-ADMINISTRATOR",
+    "name": "User-PINGUI",
+    "active": true,
+    "expiration": null,
+    "role": "user",
+    "created_at": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-ST4LL63-LUUCHITOOO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-HSQ82LB-LIONEL",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-CQD0N04-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-50CDL59-54348",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-155T9G1-TIZIANO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19"
+  },
+  {
+    "hwid": "DESKTOP-DHCV90L-FERNA",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-19",
+    "expiration": "2026-05-16"
+  },
+  {
+    "hwid": "PATRICIO-PATRI",
+    "name": "User-PATRIC",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "CRISTIAN-CRISLOVE",
+    "name": "User-CRISTI",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-H7RPGIA-USER",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-LI1QJI4-MATEO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-D55TUGN-GONZA",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-8BF9IS3-USER",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-6KROS9I-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "PORROGRATIS-PORRI",
+    "name": "User-PORROG",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "DESKTOP-T306I9I-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-20"
+  },
+  {
+    "hwid": "MATEO32-USER",
+    "name": "User-MATEO3",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-21"
+  },
+  {
+    "hwid": "DESKTOP-TP12EMC-SOSIT",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-21"
+  },
+  {
+    "hwid": "DESKTOP-809LSM0-ROASI",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-21"
+  },
+  {
+    "hwid": "DESKTOP-7P49B7E-PANDA",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-01-29"
+  },
+  {
+    "hwid": "DESKTOP-1TCKLTL-CORSAIR",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-03"
+  },
+  {
+    "hwid": "DESKTOP-5RM81NQ-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-04"
+  },
+  {
+    "hwid": "DESKTOP-GK8TQR2-PANDITA",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-05"
+  },
+  {
+    "hwid": "DESKTOP-67P0NGH-USER",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-12"
+  },
+  {
+    "hwid": "DESKTOP-NKI4B61-W10-PC",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-25"
+  },
+  {
+    "hwid": "DESKTOP-V2BOV57-USUARIO",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-25"
+  },
+  {
+    "hwid": "PC-554EA4BE52EF",
+    "name": "User-PC-554",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-25"
+  },
+  {
+    "hwid": "DESKTOP-IU9P1UV-LAUTY",
+    "name": "User-DESKTO",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-25"
+  },
+  {
+    "hwid": "PC-47F2A66F21BC",
+    "name": "User-PC-47F",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26"
+  },
+  {
+    "hwid": "PC-9C91F55D3C8B",
+    "name": "Gustavito",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26",
+    "expiration": "LIFETIME"
+  },
+  {
+    "hwid": "PC-C2434CB30389",
+    "name": "User-PC-C24",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26"
+  },
+  {
+    "hwid": "PC-A50131E4EE45",
+    "name": "User-PC-A50",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26"
+  },
+  {
+    "hwid": "PC-5553A0CF4516",
+    "name": "User-PC-555",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26"
+  },
+  {
+    "hwid": "PC-1C875BFCD895",
+    "name": "Pela",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-26"
+  },
+  {
+    "hwid": "PC-92DDEA8231DD",
+    "name": "User-PC-92D",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-27"
+  },
+  {
+    "hwid": "PC-BE69B7646922",
+    "name": "User-PC-BE6",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-27"
+  },
+  {
+    "hwid": "PC-DDC42215A55D",
+    "name": "User-PC-DDC",
+    "active": true,
+    "role": "user",
+    "created": "2026-02-28"
+  },
+  {
+    "hwid": "PC-04EAD8B41C0E",
+    "name": "User-PC-04E",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-01"
+  },
+  {
+    "hwid": "PC-E89752AF46BB",
+    "name": "User-PC-E89",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-01"
+  },
+  {
+    "hwid": "PC-A522A1217836",
+    "name": "User-PC-A52",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-01"
+  },
+  {
+    "hwid": "PC-6B0566D9EFA1",
+    "name": "User-PC-6B0",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-01"
+  },
+  {
+    "hwid": "PC-A624AB0E7071",
+    "name": "User-PC-A62",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-02"
+  },
+  {
+    "hwid": "PC-7C1690EEB3AD",
+    "name": "User-PC-7C1",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-06"
+  },
+  {
+    "hwid": "PC-76109F7ACC1F",
+    "name": "User-PC-761",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-19"
+  },
+  {
+    "hwid": "PC-4CADB1F667C6",
+    "name": "User-PC-4CA",
+    "active": true,
+    "role": "user",
+    "created": "2026-03-30"
+  },
+  {
+    "hwid": "PC-8D4818FCDAB0",
+    "name": "User-PC-8D4",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-01"
+  },
+  {
+    "hwid": "PC-E783C1358C6B",
+    "name": "User-PC-E78",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-01"
+  },
+  {
+    "hwid": "PC-A236B57249B1",
+    "name": "User-PC-A23",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-02"
+  },
+  {
+    "hwid": "PC-65A2EFAD5DB9",
+    "name": "User-PC-65A",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-06"
+  },
+  {
+    "hwid": "PC-B10668B2D104",
+    "name": "User-PC-B10",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-09"
+  },
+  {
+    "hwid": "PC-504FBD782CA9",
+    "name": "User-PC-504",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-10"
+  },
+  {
+    "hwid": "PC-257ECEBB1486",
+    "name": "User-PC-257",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-12"
+  },
+  {
+    "hwid": "PC-E82E1AEEB008",
+    "name": "User-PC-E82",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-24"
+  },
+  {
+    "hwid": "PC-5B60684C5C41",
+    "name": "User-PC-5B6",
+    "active": true,
+    "role": "user",
+    "created": "2026-04-30"
+  },
+  {
+    "hwid": "PC-A6E51A5D4519",
+    "name": "User-PC-A6E",
+    "active": true,
+    "role": "user",
+    "created": "2026-05-03"
+  },
+  {
+    "hwid": "PC-1758CB8F1F66",
+    "name": "User-PC-175",
+    "active": true,
+    "role": "user",
+    "created": "2026-05-08"
+  },
+  {
+    "hwid": "PC-F41D275DA4F4",
+    "name": "User-PC-F41",
+    "active": true,
+    "role": "user",
+    "created": "2026-05-08"
+  },
+  {
+    "hwid": "PC-8D43562550FE",
+    "name": "User-PC-8D4",
+    "active": true,
+    "role": "user",
+    "created": "2026-05-08"
+  }
 ]
