@@ -1,8 +1,8 @@
 {
   "version": "1.0.80",
-  "installer_version": "1.0.80.3",
+  "installer_version": "1.0.80.8",
   "installer_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/installer-latest/Setup_ModManagerOG_Online.exe",
   "filename": "ModManager-Setup.exe",
   "notes": "Instalador oficial de Mod Manager OG. Descarga la version estable mas reciente disponible.",
-  "updated_at": "2026-05-09T07:36:21Z"
+  "updated_at": "2026-05-09T07:58:49Z"
 }
