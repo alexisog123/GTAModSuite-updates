@@ -122,10 +122,11 @@
   },
   {
     "hwid": "DESKTOP-H7RPGIA-USER",
-    "name": "User-DESKTO",
+    "name": "TEST",
     "active": true,
     "role": "user",
-    "created": "2026-01-20"
+    "created": "2026-01-20",
+    "updated_at": "2026-05-11T23:28:36.802Z"
   },
   {
     "hwid": "DESKTOP-LI1QJI4-MATEO",
