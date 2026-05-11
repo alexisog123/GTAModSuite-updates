@@ -1,52 +1,36 @@
 [
-    {
-        "hwid": "PC-1758CB8F1F66",
-        "name": "Alexis PC host",
-        "role": "owner",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-09T11:59:38Z",
-        "last_login": "2026-05-11T21:25:54Z",
-        "permissions": [
-            "users",
-            "store",
-            "reports",
-            "maintenance",
-            "admins",
-            "updates"
-        ],
-        "updated_at": "2026-05-09T13:54:17.160Z"
-    },
-    {
-        "hwid": "PC-554EA4BE52EF",
-        "name": "Alexis PC Gamer",
-        "role": "owner",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-09T13:11:35.932Z",
-        "last_login": "",
-        "permissions": [
-            "users",
-            "store",
-            "reports"
-        ],
-        "registered_by": "admin_panel_auto_request",
-        "updated_at": "2026-05-09T13:54:27.309Z"
-    },
-    {
-        "hwid": "PC-47F2A66F21BC",
-        "name": "Laucha",
-        "role": "admin",
-        "active": true,
-        "status": "active",
-        "created_at": "2026-05-11T20:50:40.876Z",
-        "last_login": "",
-        "permissions": [
-            "users",
-            "store",
-            "reports"
-        ],
-        "registered_by": "admin_panel_auto_request",
-        "updated_at": "2026-05-11T20:52:34.519Z"
-    }
+  {
+    "hwid": "PC-1758CB8F1F66",
+    "name": "Alexis PC host",
+    "role": "owner",
+    "active": true,
+    "status": "active",
+    "created_at": "2026-05-09T11:59:38Z",
+    "last_login": "2026-05-11T21:25:54Z",
+    "permissions": [
+      "users",
+      "store",
+      "reports",
+      "maintenance",
+      "admins",
+      "updates"
+    ],
+    "updated_at": "2026-05-09T13:54:17.160Z"
+  },
+  {
+    "hwid": "PC-554EA4BE52EF",
+    "name": "Alexis PC Gamer",
+    "role": "owner",
+    "active": true,
+    "status": "active",
+    "created_at": "2026-05-09T13:11:35.932Z",
+    "last_login": "",
+    "permissions": [
+      "users",
+      "store",
+      "reports"
+    ],
+    "registered_by": "admin_panel_auto_request",
+    "updated_at": "2026-05-09T13:54:27.309Z"
+  }
 ]
