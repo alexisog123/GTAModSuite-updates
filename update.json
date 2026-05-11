@@ -1,7 +1,7 @@
 {
-  "version": "1.0.84",
+  "version": "1.0.90",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.84/update_v1.0.84.zip",
-  "published_at": "2026-05-11T19:35:17Z",
-  "changelog": "Nuevo Overlay In-Game seguro para FiveM: metricas de CPU, RAM, GPU, VRAM, ping, perfil activo y estados Ultra FPS / Streamer Mode en una ventana flotante configurable. Funciona con pywebview y WebSocket local, sin inyecciones ni hooks al juego."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.90/update_v1.0.90.zip",
+  "published_at": "2026-05-11T22:21:32Z",
+  "changelog": "Detalle de tienda mas integrado, login con sesion opcional persistente, sincronizacion de login exclusivo con Discord, arranque maximizado, servidores FiveM publicos y admin con actualizaciones inmediatas."
 }
