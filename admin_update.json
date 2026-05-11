@@ -1,5 +1,5 @@
 {
-  "version": "1.0.84",
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778334600",
-  "changelog": "Panel admin interno con lectura publica estable de autorizaciones, correccion de falsos equipos pendientes y acciones por Vercel."
+  "version": "1.0.86",
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/admin-latest/admin_update_release.zip?v=1778538122",
+  "changelog": "Panel admin con edicion de rango desde usuarios, promocion directa a admin, gestion de servidores FiveM y correcciones en acciones de eliminar/activar usuarios."
 }
