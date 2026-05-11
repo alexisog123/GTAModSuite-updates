@@ -35,10 +35,10 @@
   },
   {
     "hwid": "PC-47F2A66F21BC",
-    "name": "Admin-6F21BC",
+    "name": "Laucha",
     "role": "admin",
-    "active": false,
-    "status": "pending",
+    "active": true,
+    "status": "active",
     "created_at": "2026-05-11T20:50:40.876Z",
     "last_login": "",
     "permissions": [
@@ -47,6 +47,6 @@
       "reports"
     ],
     "registered_by": "admin_panel_auto_request",
-    "updated_at": "2026-05-11T20:51:09.873Z"
+    "updated_at": "2026-05-11T20:52:18.008Z"
   }
 ]
