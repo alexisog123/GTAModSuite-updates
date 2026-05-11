@@ -1,7 +1,7 @@
 {
-  "version": "1.0.90",
+  "version": "1.0.91",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.90/update_v1.0.90.zip",
-  "published_at": "2026-05-11T22:21:32Z",
-  "changelog": "Detalle de tienda mas integrado, login con sesion opcional persistente, sincronizacion de login exclusivo con Discord, arranque maximizado, servidores FiveM publicos y admin con actualizaciones inmediatas."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.91/update_v1.0.91.zip",
+  "published_at": "2026-05-11T22:34:45Z",
+  "changelog": "Detalle de tienda mas integrado, login con sesion opcional persistente, sincronizacion de login exclusivo con Discord, arranque maximizado, servidores FiveM publicos con carga paginada y admin con actualizaciones inmediatas."
 }
