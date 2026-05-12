@@ -35,7 +35,7 @@
   },
   {
     "hwid": "PC-0C968A395438",
-    "name": "Ale",
+    "name": "asd",
     "role": "owner",
     "active": true,
     "status": "active",
@@ -47,6 +47,6 @@
       "reports"
     ],
     "registered_by": "admin_panel_auto_request",
-    "updated_at": "2026-05-12T11:48:14.468Z"
+    "updated_at": "2026-05-12T11:48:29.531Z"
   }
 ]
