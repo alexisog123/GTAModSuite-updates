@@ -36,7 +36,7 @@
   {
     "hwid": "PC-0C968A395438",
     "name": "Admin-395438",
-    "role": "admin",
+    "role": "owner",
     "active": true,
     "status": "active",
     "created_at": "2026-05-12T06:50:58.690Z",
@@ -47,6 +47,6 @@
       "reports"
     ],
     "registered_by": "admin_panel_auto_request",
-    "updated_at": "2026-05-12T11:46:48.890Z"
+    "updated_at": "2026-05-12T11:46:53.012Z"
   }
 ]
