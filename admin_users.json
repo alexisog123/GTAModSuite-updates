@@ -32,5 +32,20 @@
     ],
     "registered_by": "admin_panel_auto_request",
     "updated_at": "2026-05-11T23:38:28.512Z"
+  },
+  {
+    "hwid": "PC-0C968A395438",
+    "name": "Admin-395438",
+    "role": "admin",
+    "active": false,
+    "status": "pending",
+    "created_at": "2026-05-12T06:50:58.690Z",
+    "last_login": "",
+    "permissions": [
+      "users",
+      "store",
+      "reports"
+    ],
+    "registered_by": "admin_panel_auto_request"
   }
 ]
