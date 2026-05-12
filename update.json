@@ -1,7 +1,7 @@
 {
-  "version": "1.0.97",
+  "version": "1.0.98",
   "required": true,
-  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.97/update_v1.0.97.zip",
-  "published_at": "2026-05-12T03:12:31Z",
-  "changelog": "Login con Discord mas estable: apertura confiable del navegador, validacion OAuth contra intentos antiguos, cierre de pestaña corregido y mejoras visuales en la inspeccion de mods de la tienda."
+  "zip_url": "https://github.com/alexisog123/GTAModSuite-updates/releases/download/v1.0.98/update_v1.0.98.zip",
+  "published_at": "2026-05-12T03:24:42Z",
+  "changelog": "Login con Discord corregido: la app abre el navegador predeterminado con el flujo OAuth y evita que Windows abra Documentos por error."
 }
