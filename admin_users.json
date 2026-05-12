@@ -35,8 +35,8 @@
   },
   {
     "hwid": "PC-0C968A395438",
-    "name": "qse",
-    "role": "owner",
+    "name": "wda",
+    "role": "admin",
     "active": true,
     "status": "active",
     "created_at": "2026-05-12T06:50:58.690Z",
@@ -47,6 +47,6 @@
       "reports"
     ],
     "registered_by": "admin_panel_auto_request",
-    "updated_at": "2026-05-12T11:48:47.982Z"
+    "updated_at": "2026-05-12T11:49:39.391Z"
   }
 ]
