@@ -484,5 +484,14 @@
     "created": "2026-05-25",
     "expiration": "LIFETIME",
     "registered_by": "admin_panel_bridge"
+  },
+  {
+    "hwid": "PC-B88BEA7FC65E",
+    "name": "Matecito",
+    "active": true,
+    "role": "user",
+    "created": "2026-05-29",
+    "expiration": "LIFETIME",
+    "registered_by": "admin_panel_bridge"
   }
 ]
