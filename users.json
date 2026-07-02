@@ -493,5 +493,13 @@
     "created": "2026-05-29",
     "expiration": "LIFETIME",
     "registered_by": "admin_panel_bridge"
+  },
+  {
+    "hwid": "PC-B70D8ECDAEC2",
+    "name": "User-PC-B70",
+    "active": true,
+    "role": "user",
+    "created": "2026-07-02",
+    "expiration": null
   }
 ]
